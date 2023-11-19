@@ -14,16 +14,16 @@ The project utilizes a collisions dataset for the specified period, alongside ad
 Data cleaning and processing were conducted using OpenRefine and Pandas in Python. The process involved filtering, cleaning, and deriving necessary data to answer the project's questions. Detailed steps and code are available in the associated Google Colab document.
 
 ## Design and Implementation
-The visualization design process, tested and refined through multiple iterations, is documented in the Google Colab file. The final multi-view visualization is built using Altair and integrated into a Streamlit application. Various types of charts, like bar charts, heat maps, and treemaps, were employed to present the data effectively.
+The visualization design process, tested and refined through multiple iterations, is documented in the Google Colab file. The final multi-view visualization is built using Altair and integrated into a Streamlit application. Various types of charts, like bar charts, heat maps, and choropleth maps,... were employed to present the data effectively.
 
 ## How to Run
 To run the Streamlit application:
 
-1. Ensure you have Python and Streamlit installed.
+1. Ensure you have Python, Streamlit, Pandas and Altair installed.
 2. Clone this repository.
-3. Navigate to the project directory.
+3. Navigate to the app directory.
 4. Run `streamlit run app.py`.
 
 ## Authors
-- [Your Name]
-- [Collaborator's Name] (if applicable)
+- Ignacio Gris Martín
+- Marc Camps Garreta
