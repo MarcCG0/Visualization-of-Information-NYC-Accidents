@@ -3,7 +3,7 @@ import pandas as pd
 from colors import categorical_palette
 
 
-df_V1 = pd.read_csv('../datasetsVisualizations/df_V1.csv')
+df_V1 = pd.read_csv('datasetsVisualizations/df_V1.csv')
 
 weekday_bars = alt.Chart(df_V1).mark_bar().encode(
     x = alt.X('ACCIDENTS:Q', axis = None),

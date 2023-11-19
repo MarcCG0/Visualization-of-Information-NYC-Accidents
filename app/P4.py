@@ -3,7 +3,7 @@ import altair as alt
 import pandas as pd 
 
 
-df_V4 = pd.read_csv('../datasetsVisualizations/df_V4.csv')
+df_V4 = pd.read_csv('datasetsVisualizations/df_V4.csv')
 url_geojson = "https://raw.githubusercontent.com/fedhere/PUI2015_EC/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson"
 data_url_geojson = alt.Data(url=url_geojson, format=alt.DataFormat(property="features"))
 

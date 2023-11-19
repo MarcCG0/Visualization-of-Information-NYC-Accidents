@@ -2,7 +2,7 @@ import altair as alt
 import pandas as pd 
 from colors import categorical_palette
 
-df_V6 = pd.read_csv('../datasetsVisualizations/df_V6.csv')
+df_V6 = pd.read_csv('datasetsVisualizations/df_V6.csv')
 
 chart_V6 = alt.Chart(df_V6).mark_bar().encode(
     alt.X('ACCIDENTS:Q', axis = alt.Axis(title = 'Accidents')),

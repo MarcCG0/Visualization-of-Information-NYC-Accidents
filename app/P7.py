@@ -2,10 +2,10 @@ import altair as alt
 import pandas as pd 
 
 
-df_V7_accidents = pd.read_csv('../datasetsVisualizations/df_V7_accidents.csv')
-df_V7_people = pd.read_csv('../datasetsVisualizations/df_V7_people.csv')
-df_V7_comb = pd.read_csv('../datasetsVisualizations/df_V7_comb.csv')
-df_V7_background = pd.read_csv('../datasetsVisualizations/df_V7_background.csv')
+df_V7_accidents = pd.read_csv('datasetsVisualizations/df_V7_accidents.csv')
+df_V7_people = pd.read_csv('datasetsVisualizations/df_V7_people.csv')
+df_V7_comb = pd.read_csv('datasetsVisualizations/df_V7_comb.csv')
+df_V7_background = pd.read_csv('datasetsVisualizations/df_V7_background.csv')
 
 
 chart_V1_accidents = alt.Chart(df_V7_accidents).mark_bar().encode(

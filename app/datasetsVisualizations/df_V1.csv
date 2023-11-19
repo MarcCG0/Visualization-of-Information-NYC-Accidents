@@ -1,0 +1,15 @@
+,WEEKDAY,DAY TYPE,YEAR,ACCIDENTS
+0,Friday,Weekday,2018,11914
+1,Friday,Weekday,2020,5013
+2,Monday,Weekday,2018,10870
+3,Monday,Weekday,2020,4735
+4,Saturday,Weekend,2018,9969
+5,Saturday,Weekend,2020,4706
+6,Sunday,Weekend,2018,8926
+7,Sunday,Weekend,2020,4313
+8,Thursday,Weekday,2018,11196
+9,Thursday,Weekday,2020,5048
+10,Tuesday,Weekday,2018,10979
+11,Tuesday,Weekday,2020,5019
+12,Wednesday,Weekday,2018,10200
+13,Wednesday,Weekday,2020,4828

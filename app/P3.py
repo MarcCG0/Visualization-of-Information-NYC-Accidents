@@ -2,7 +2,7 @@ import altair as alt
 import pandas as pd 
 
 
-df_V3 = pd.read_csv('../datasetsVisualizations/df_V3.csv')
+df_V3 = pd.read_csv('datasetsVisualizations/df_V3.csv')
 
 
 # HORIZON PLOT FOR ACCIDENTS PER HOUR IN 2018

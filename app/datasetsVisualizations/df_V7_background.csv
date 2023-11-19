@@ -1,0 +1,25 @@
+,COMBINATION,CATEGORY
+0,0011,Pedestrians Injured
+1,0011,Pedestrians Killed
+2,0011,Motorists Injured
+3,0011,Motorists Killed
+4,0110,Pedestrians Injured
+5,0110,Pedestrians Killed
+6,0110,Motorists Injured
+7,0110,Motorists Killed
+8,0010,Pedestrians Injured
+9,0010,Pedestrians Killed
+10,0010,Motorists Injured
+11,0010,Motorists Killed
+12,1100,Pedestrians Injured
+13,1100,Pedestrians Killed
+14,1100,Motorists Injured
+15,1100,Motorists Killed
+16,1000,Pedestrians Injured
+17,1000,Pedestrians Killed
+18,1000,Motorists Injured
+19,1000,Motorists Killed
+20,1001,Pedestrians Injured
+21,1001,Pedestrians Killed
+22,1001,Motorists Injured
+23,1001,Motorists Killed
